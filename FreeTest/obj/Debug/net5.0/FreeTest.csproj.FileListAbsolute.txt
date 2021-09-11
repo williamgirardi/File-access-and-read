@@ -1,0 +1,16 @@
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\FreeTest.csproj.AssemblyReference.cache
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\FreeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\FreeTest.AssemblyInfoInputs.cache
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\FreeTest.AssemblyInfo.cs
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\FreeTest.csproj.CoreCompileInputs.cache
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\bin\Debug\net5.0\FreeTest.exe
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\bin\Debug\net5.0\FreeTest.deps.json
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\bin\Debug\net5.0\FreeTest.runtimeconfig.json
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\bin\Debug\net5.0\FreeTest.runtimeconfig.dev.json
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\bin\Debug\net5.0\FreeTest.dll
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\bin\Debug\net5.0\ref\FreeTest.dll
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\bin\Debug\net5.0\FreeTest.pdb
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\FreeTest.dll
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\ref\FreeTest.dll
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\FreeTest.pdb
+C:\Users\William Girardi\source\repos\FreeTest\FreeTest\obj\Debug\net5.0\FreeTest.genruntimeconfig.cache
